@@ -37,7 +37,7 @@
 
 ## 📡 Enterprise Projects
 
-- Contributed to the development of GIMS, a Geotechnical Management Information System for the Abu Dhabi Municipality
+- Contributed to the development of GIMS, a Geotechnical Management Information System for the Abu Dhabi Municipality (UAE)
 - Provided technical consultancy for [Q Go Travel](https://www.qgoonline.com) (Kuwait), facilitating architectural and code reviews to aid decision-making
 - Provided technical consultancy for [Supplyfied](https://supplyfied.com) (Saudi Arabia), building a system to connect hotel and hospitality purchasers with product solutions locally and globally
 
