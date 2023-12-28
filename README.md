@@ -30,10 +30,10 @@
 - **Huawei Developers Competition** Honorable Mention (Middle East) (2020)
 - **Huawei Developers Competition** Best App Golden Award (Egypt) (2020)
 - **Samsung Developer Challenge Initiative winner** - Samsung Middleast (2014)
-- **MongoDB Developer** (Using Node.js) - 2013 MongoDB INC
-- **MCP, MCAD** - Microsoft (2007)
-- **MMH Cleaner** A desktop utility, recognized among the top 20 freeware tools in PCWorld magazine (2008).
 - **Mobile Gamepad** - Transform mobile device into a generic wireless gamepad, utilizing motion sensors, recognized in forums like [XDA Developers](https://xdaforums.com/t/app-4-0-mobile-gamepad-app-with-accelerometer-mothions.2732035/) and acknowledged in regional developer competitions (2014)
+- **MongoDB Developer** (Using Node.js) - 2013 MongoDB INC
+- **MMH Cleaner** A desktop utility, recognized among the top 20 freeware tools in PCWorld magazine (2008)
+- **Microsoft Certified Professional & Application Developer** - Microsoft (2007)
 
 ## 📡 Enterprise Projects
 
