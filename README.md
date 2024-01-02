@@ -22,7 +22,7 @@
 - **Softoria Tech:** Developed comprehensive CAD applications for communication tower modeling, and shop drawings generation
 - **Cybertron International:** Architected and developed the [CLXGaming](https://clxgaming.com) Website, an intricate e-commerce platform for customizable hardware, aligning technology with market needs.
 - **Algorithm Innovative Solutions:** Innovated in AR, smart restaurant management, and beacon-driven solutions, ushering in transformative experiences in diverse domains.
-- **Bites:** Championed the development of a comprehensive food ordering platform deployed across multiple platforms, showcasing robust backend expertise in Node.js.
+- **Bites:** Championed the development of a comprehensive food ordering platform deployed across multiple platforms, showcasing robust backend expertise in Node.js and cloud-native architecture.
 - **Roadrunner:** Designed and executed a cutting-edge SaaS application for delivery management, building real-time tracking and ensuring a true cloud-native architecture.
 - **Botter:** Engineered an intelligent AI-driven conversational platform, emphasizing reliability and efficiency through distributed systems.
 
