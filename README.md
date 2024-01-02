@@ -4,6 +4,12 @@
 [![Medium](https://img.shields.io/badge/Medium-gray)](https://medium.com/@m-elbably)
 [![Dev.to](https://img.shields.io/badge/Dev.to-white)](https://dev.to/melbably)
 
+<a href="https://github.com/m-elbably">
+  <img height="137px" src="https://github-readme-stats-theta-seven-23.vercel.app/api?username=m-elbably&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&rank_icon=percentile&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <!-- wi*quL3fcV -->
+  <img height="137px" src="https://github-readme-stats-theta-seven-23.vercel.app/api/top-langs/?username=m-elbably&hide=html,css,vue,c%23&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
+
 ## 🌱 Intro
 
 - 🔭 I’m a Technical Manager, Software Architect, and Node.js Backend Developer, with a diverse background in crafting innovative solutions across multiple domains.
@@ -17,7 +23,7 @@
 - **Cybertron International:** Architected and developed the [CLXGaming](https://clxgaming.com) Website, an intricate e-commerce platform for customizable hardware, aligning technology with market needs.
 - **Algorithm Innovative Solutions:** Innovated in AR, smart restaurant management, and beacon-driven solutions, ushering in transformative experiences in diverse domains.
 - **Bites:** Championed the development of a comprehensive food ordering platform deployed across multiple platforms, showcasing robust backend expertise in Node.js.
-- **Roadrunner:** Designed and executed a cutting-edge SaaS application for delivery management, buidling real-time tracking and ensuring a true cloud-native architecture.
+- **Roadrunner:** Designed and executed a cutting-edge SaaS application for delivery management, building real-time tracking and ensuring a true cloud-native architecture.
 - **Botter:** Engineered an intelligent AI-driven conversational platform, emphasizing reliability and efficiency through distributed systems.
 
 ## 🏆 Accomplishments
