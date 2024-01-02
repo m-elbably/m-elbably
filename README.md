@@ -17,7 +17,7 @@
 - **Cybertron International:** Architected and developed the [CLXGaming](https://clxgaming.com) Website, an intricate e-commerce platform for customizable hardware, aligning technology with market needs.
 - **Algorithm Innovative Solutions:** Innovated in AR, smart restaurant management, and beacon-driven solutions, ushering in transformative experiences in diverse domains.
 - **Bites:** Championed the development of a comprehensive food ordering platform deployed across multiple platforms, showcasing robust backend expertise in Node.js.
-- **Roadrunner:** Designed and executed a cutting-edge SaaS application for delivery management, integrating real-time tracking and ensuring a true cloud-native architecture.
+- **Roadrunner:** Designed and executed a cutting-edge SaaS application for delivery management, buidling real-time tracking and ensuring a true cloud-native architecture.
 - **Botter:** Engineered an intelligent AI-driven conversational platform, emphasizing reliability and efficiency through distributed systems.
 
 ## 🏆 Accomplishments
