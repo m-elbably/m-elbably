@@ -47,6 +47,7 @@
 
 ## 🤖 Opensource Projects
 
+- [Env Diff](https://github.com/m-elbably/env-diff) A local terminal UI to compare .env, .yaml, and .json config files side-by-side. Your secrets never leave your machine.
 - [Slide Limiter](https://github.com/m-elbably/slide-limiter) Rate limiting library offering sliding window rate limiting with support for multiple storage mechanisms, including in-memory and Redis
 - [SymSpell-Ex](https://github.com/m-elbably/symspell-ex) Distributed spelling correction & fuzzy search based on symmetric delete spelling correction algorithm (SymSpell)
 - [Simple Access](https://github.com/m-elbably/simple-access) Attribute-Role-Based Hybrid Access Control Library
