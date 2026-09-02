@@ -46,6 +46,7 @@
 - Provided technical consultancy for [Supplyfied](https://supplyfied.com) (Saudi Arabia), building a system to connect hotel and hospitality purchasers with product solutions locally and globally
 
 ## 🤖 Opensource Projects
+- [DevDesk](https://github.com/m-elbably/devdesk) A local-first, privacy-first developer toolbox for the desktop, 73 tools across 10 categories — plus tasks, notes and snippets. Fully offline, no account, no telemetry.
 - [Lite Pulse](https://github.com/m-elbably/lite-pulse) LitePulse is a self-hosted uptime monitor for HTTP endpoints, HTTPS certificates, and TCP services.
 - [Env Diff](https://github.com/m-elbably/env-diff) A local terminal UI to compare .env, .yaml, and .json config files side-by-side. Your secrets never leave your machine.
 - [Slide Limiter](https://github.com/m-elbably/slide-limiter) Rate limiting library offering sliding window rate limiting with support for multiple storage mechanisms, including in-memory and Redis
